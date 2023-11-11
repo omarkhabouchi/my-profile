@@ -1,0 +1,16 @@
+h2 {
+    color: red;
+      font-size: 20px;
+      font-family: Helvetica;
+  }
+
+  body {
+    color: rgb(10, 10, 10);     /* Text color */
+      background-color: #DFDDDF;  /* Background color */
+  }
+
+  body {
+    color: rgb(30, 30, 30);
+      text-align: justify;
+      text-decoration: none;
+  }
